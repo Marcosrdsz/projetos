@@ -50,7 +50,7 @@ main > ol{
     margin-left: 10px;
     list-style-position: inside;
     columns: 1;
-    text-align: justify;
+    
     font-size: 16px;
     font-family: "Poppins", sans-serif;
 }
@@ -66,9 +66,7 @@ main > ol{
 }
 
 aside{
-    margin: auto;
-    margin-left: 10px;
-    margin-right: 10px;
+   
     text-indent: 1.2em;
     line-height: 1.7em;
     background-color: #16175e;
@@ -83,7 +81,7 @@ aside > h1{
 }
 .negri{
     font-weight: bolder;
-    margin: 10px;
+    
     margin-top: 50px;
     margin-bottom: 30px;
     font-size: 1.7em;
