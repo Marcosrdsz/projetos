@@ -47,13 +47,11 @@ main > h1{
 }
 
 main > ol{
-    margin: 15px 0px;
-    text-indent: 30px;
-    line-height: 1.3em;
+    margin-left: 10px;
     list-style-position: inside;
-    columns: 2;
+    columns: 1;
     text-align: justify;
-    font-size: 1.2em;
+    font-size: 16px;
     font-family: "Poppins", sans-serif;
 }
 
@@ -94,7 +92,7 @@ aside > h1{
 aside > p{
     font-family: "Poppins", sans-serif;
     text-indent: 30px;
-    font-size: 1.2em;
+    font-size: 16px;
     margin-bottom: 10px;
 }
 aside > img{
@@ -123,12 +121,12 @@ section > ul{
     font-family: "Poppins", sans-serif;
     columns: 2;
     text-align: justify;
-    list-style-type: '\1F5F8\00A0\00A0';
+    list-style-type: '✓';
     list-style-position: inside;
     padding: 20px;
     color: #060632;
     font-weight: bold;
-    font-size: 1.2em;
+    font-size: 16px;
 }
 
 .tec{
