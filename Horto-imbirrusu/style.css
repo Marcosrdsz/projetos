@@ -32,6 +32,7 @@ header > p{
 .bottom{
     padding-bottom: 28%;
 }
+
 main{
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
@@ -140,6 +141,26 @@ section > ul{
     padding: 60px;
     border-radius: 100px;
 }
+
+nav{
+    padding-top: 7%;
+    padding-bottom: 7%;
+    margin-left: 25px;
+
+}
+nav > b > a{
+    background-image: linear-gradient(to right, #FFE53B, #ff2525);
+    color: white;
+    padding: 7px;
+    font-size: 1.2em;
+    border-radius: 5px;
+    text-decoration: none;
+}
+nav > b > a:hover{
+    transition: 1s;
+    font-size: 1.3em;
+}
+
 footer{
     margin-top: 50px;
     text-align: center;
