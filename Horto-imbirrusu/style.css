@@ -99,6 +99,23 @@ aside > img{
     padding: 20px;
     border-radius: 30px;
 }
+
+.links{
+    font-family: "Poppins", sans-serif;
+    font-size: 0.9em;
+}
+.links > a{
+    color: rgba(76, 143, 5, 0.801);
+    text-decoration: none;
+}
+.links > a:hover{
+    font-size: 1.2em;
+    transition: 1s;
+}
+.links > a:active{
+    color: #000023;
+}
+
 section{
     background-image: url(imagens/foto-meio-ambiente.jpg);
     background-position: center center;
@@ -144,9 +161,9 @@ section > ul{
 }
 
 nav{
-    margin-top: 10%;
+    padding-top: 5%;
     padding-bottom: 7%;
-    margin-left: 25px;
+    padding-left: 25px;
 
 }
 nav > b > a{
@@ -160,6 +177,12 @@ nav > b > a{
 nav > b > a:hover{
     transition: 1s;
     font-size: 1.3em;
+}
+
+.id-01{
+    font-family: "Poppins", sans-serif;
+    font-size: 0.9em;
+    padding: 10px;
 }
 
 footer{
