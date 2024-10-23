@@ -197,13 +197,13 @@ section > ul{
     font-size: 0.9em;
     padding: 10px;
 }
-aside{
+div{
     background-color: #000023;
     font-family: "Poppins", sans-serif;
-    font-size: 0.7em;
-    padding-top: 20%;
+    font-size: 0.9em;
+    padding-top: 5%;
 }
-aside > p > a{
+div > p > a{
     color: rgba(76, 143, 5, 0.801);
 }
 
