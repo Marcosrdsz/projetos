@@ -19,7 +19,7 @@ header{
     font-size: 1.3em;
     padding-bottom: 160px;
     background-position: center top;
-    background-image: url(imagens/imagem-horto.jpg);
+    background-image: url(imagens/imagem-horto-600.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -191,24 +191,20 @@ section > ul{
 }
 
 
-.instagram > b > a{
-    background-image: linear-gradient(to right, #FFE53B, #ff2525);
-    color: white;
-    padding: 7px;
-    font-size: 0.9em;
-    border-radius: 5px;
-    text-decoration: none;
-    
-}
-.instagram > b > a:hover{
-    transition: 1s;
-    font-size: 1.3em;
-}
 
 .id-01{
     font-family: "Poppins", sans-serif;
     font-size: 0.9em;
     padding: 10px;
+}
+aside{
+    background-color: #000023;
+    font-family: "Poppins", sans-serif;
+    font-size: 0.7em;
+    padding-top: 20%;
+}
+aside > p > a{
+    color: rgba(76, 143, 5, 0.801);
 }
 
 footer{
